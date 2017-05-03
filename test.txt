@@ -1,3 +1,4 @@
 Hi I'm master Branch
 
-hi i'm secondBranch//make Conflict
+
+hi i'm secondBranch// merge modify
