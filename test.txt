@@ -1,3 +1,3 @@
 Hi I'm master Branch
 
-hi i'm secondBranch
+hi i'm secondBranch//make Conflict
